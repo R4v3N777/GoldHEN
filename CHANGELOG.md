@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.1.2
+- Fixed config parser
+
+## v2.1.1
+- Fixed multiple injections
+
 ## v2.1
 - Added config file (/data/GoldHEN/config.ini)
 - Added Klog server on 3232 port
